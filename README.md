@@ -17,6 +17,10 @@
 
   - 💬 Com 20 anos, me dedico à área de desenvolvimento web, buscando aprimorar minhas habilidades e conhecimentos em projetos desafiadores. Desenvolvi um grande interesse pela área durante um estágio em uma HealthTech e desde então, me aprofundei em tecnologias como HTML, CSS, Javascript, Bootstrap, Git, GitHub, React e Node.Js.
 
+Para aprimorar minhas habilidades práticas, além de cursos, venho desenvolvendo diversos projetos pessoais e, há um ano, tranquei a faculdade de administração para focar na área de análise e desenvolvimento de sistemas.
+
+Tenho um perfil bem proativo, dedicado e aprendo com bastante facilidade. A grandeza que existe no mundo do desenvolvimento e as constantes mudanças me motivam a buscar desafios e aprimorar meu conhecimento.
+
 </details>
 
 <!-- Links -->
