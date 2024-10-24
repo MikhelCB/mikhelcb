@@ -15,11 +15,11 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬 Com 20 anos, me dedico à área de desenvolvimento web, buscando aprimorar minhas habilidades e conhecimentos em projetos desafiadores. Desenvolvi um grande interesse pela área durante um estágio em uma HealthTech e desde então, me aprofundei em tecnologias como HTML, CSS, Javascript, Bootstrap, Git, GitHub, React e Node.Js.
+ - Atualmente, estou focando meus estudos na área de QA Tester, com ênfase em testes automatizados, metodologias ágeis, e o uso de ferramentas como Cypress e JUnit. Busco desenvolver habilidades que garantam a qualidade e eficiência dos sistemas, contribuindo para a entrega de produtos robustos e confiáveis.
 
-- Para aprimorar minhas habilidades práticas, além de cursos, venho desenvolvendo diversos projetos pessoais e, há um ano, tranquei a faculdade de administração para focar na área de análise e desenvolvimento de sistemas.
+- Para aprimorar minhas habilidades práticas, além de cursos com a DIO, venho desenvolvendo diversos projetos pessoais e, há um ano, ingressei no curso de análise e desenvolvimento de sistemas para focar na área da tecnologia.
 
-- Tenho um perfil bem proativo, dedicado e aprendo com bastante facilidade. A grandeza que existe no mundo do desenvolvimento e as constantes mudanças me motivam a buscar desafios e aprimorar meu conhecimento.
+- Apesar de centralizar meus estudos na área de Quality Assurance e testes, também tenho interesse no desenvolvimento front-end. Estou sempre buscando aprender sobre a criação de interfaces de usuário eficientes, utilizando JavaScript, React, Bootstrap.
 
 </details>
 
