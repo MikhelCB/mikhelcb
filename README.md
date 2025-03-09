@@ -8,18 +8,17 @@
 <p>
   Olá! 👋, Sou o Mikhel, estudante de Análise e Desenvolvimento de Sistemas.
 
-  - 🔭 Estou em busca da minha primeira oportunidade na área de Desenvolvimento Web.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
- - Atualmente, estou focando meus estudos na área de QA Tester, com ênfase em testes automatizados, metodologias ágeis, e o uso de ferramentas como Cypress e JUnit. Busco desenvolver habilidades que garantam a qualidade e eficiência dos sistemas, contribuindo para a entrega de produtos robustos e confiáveis.
+ Atualmente, trabalho na Dígitro Tecnologia, auxiliando na execução de testes manuais e automatizados para garantir a qualidade dos sistemas. Tenho experiência com Cypress para automação de testes end-to-end, além de testes de API e metodologias ágeis como Scrum e Kanban.
 
-- Para aprimorar minhas habilidades práticas, além de cursos com a DIO, venho desenvolvendo diversos projetos pessoais e, há um ano, ingressei no curso de análise e desenvolvimento de sistemas para focar na área da tecnologia.
+Meu foco está na área de QA Tester, buscando aprofundar meus conhecimentos em testes automatizados, boas práticas de qualidade de software e integração contínua. Para isso, venho combinando minha atuação profissional com estudos intensivos, incluindo cursos na DIO e o curso de Análise e Desenvolvimento de Sistemas, no qual estou há um ano.
 
-- Apesar de centralizar meus estudos na área de Quality Assurance e testes, também tenho interesse no desenvolvimento front-end. Estou sempre buscando aprender sobre a criação de interfaces de usuário eficientes, utilizando JavaScript, React, Bootstrap.
+Além da expertise em Quality Assurance, também tenho interesse no desenvolvimento front-end, explorando tecnologias como JavaScript, React e Bootstrap para a criação de interfaces eficientes e intuitivas. Estou sempre em busca de aprimorar minhas habilidades e contribuir para a entrega de produtos robustos e confiáveis.
 
 </details>
 
