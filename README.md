@@ -26,9 +26,6 @@ Além da expertise em Quality Assurance, também tenho interesse no desenvolvime
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cabral.mikhel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhel-cabral/)
 
-<!-- GithubStats -->
-![mikhelcb GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhelcb&show_icons=true&theme=gotham)
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div align="left">
