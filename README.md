@@ -2,20 +2,10 @@
 <h1 align="left">Hey 👋 I'm Mikhel</h1>
 
 <p align="left">
-💻 QA Engineer focado em automação de testes <br>
-🚀 Experiência com Cypress, Selenium e testes de API <br>
-📚 Estudando desenvolvimento fullstack (Node.js + React) <br>
+- QA Engineer focado em automação de testes <br>
+- Experiência com Cypress, Selenium e testes de API <br>
+- Estudando desenvolvimento fullstack (Node.js + React) <br>
 </p>
-
----
-
-## 🧠 Sobre mim
-
-- 🔍 Atuo com testes manuais e automatizados garantindo qualidade de software  
-- ⚙️ Experiência com automação E2E utilizando Cypress  
-- 🔗 Testes de API com Postman e JavaScript  
-- 🗄️ Validação de dados com SQL e PostgreSQL  
-- 📈 Interesse em melhoria contínua e qualidade de produto  
 
 ---
 
@@ -74,3 +64,9 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/MikhelCB/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/MikhelCB/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MikhelCB/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
