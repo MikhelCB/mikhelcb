@@ -1,74 +1,76 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World 👋</h1></summary>
-</div>
+<!-- HEADER -->
+<h1 align="left">Hey 👋 I'm Mikhel</h1>
 
-<!-- Presentation -->
-<p>
-  Olá! 👋 Sou o Mikhel, estudante de Análise e Desenvolvimento de Sistemas e focado em Quality Assurance.
+<p align="left">
+💻 QA Engineer focado em automação de testes <br>
+🚀 Experiência com Cypress, Selenium e testes de API <br>
+📚 Estudando desenvolvimento fullstack (Node.js + React) <br>
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Sobre mim</summary>
+---
 
-Atuo na área de Quality Assurance, com experiência em testes manuais e automatizados, garantindo a qualidade durante todo o ciclo de desenvolvimento de software.
+## 🧠 Sobre mim
 
-Tenho experiência com automação de testes end-to-end utilizando Cypress, testes de API com Postman e JavaScript, além de conhecimento em Selenium e estudos com Robot Framework.
+- 🔍 Atuo com testes manuais e automatizados garantindo qualidade de software  
+- ⚙️ Experiência com automação E2E utilizando Cypress  
+- 🔗 Testes de API com Postman e JavaScript  
+- 🗄️ Validação de dados com SQL e PostgreSQL  
+- 📈 Interesse em melhoria contínua e qualidade de produto  
 
-Também possuo vivência com consultas em SQL e validação de dados, além de noções de modelagem de banco de dados. Durante minha trajetória, participei da análise de requisitos, documentação e identificação de melhorias para produtos.
+---
 
-Além disso, estudo desenvolvimento fullstack com Node.js e React, o que fortalece minha visão técnica e contribui para uma atuação mais completa em QA.
+## 🛠️ Tecnologias
 
-Estou em constante evolução, buscando aprimorar minhas habilidades em automação de testes, boas práticas de qualidade e integração contínua.
-
-</details>
-
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cabral.mikhel/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhel-cabral/)
-
-## 🔥 Skills
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12" />
-
+<p align="left">
   <img src="https://cdn.simpleicons.org/cypress/69D3A7" height="40"/>
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/>
-  <img width="12" />
-
+  <img width="10"/>
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40"/>
-  <img width="12" />
-
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/>
+  <img width="10"/>
   <img src="https://cdn.simpleicons.org/robotframework/000000" height="40"/>
-
-  ## 💾 Banco de Dados
-<div align="left">
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-</div>
-
-## ⚙️ DevOps & Ferramentas
-<div align="left">
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-</div>
+</p>
 
+---
+
+## 🚀 Projetos em destaque
+
+- 🔹 Automação E2E com Cypress  
+- 🔹 Testes de API com Postman  
+- 🔹 Estudos com Robot Framework  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api?username=mikhel-cabral&show_icons=true&theme=dark"
+  />
   
-</div>
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhelCB&layout=compact&theme=dark"
+  />
+</p>
 
-## 🧪 QA & Testing
+---
 
-- Cypress  
-- Selenium  
-- Postman  
-- Testes de API  
-- Testes E2E  
-- BDD (Cucumber / Gherkin)  
-- Robot Framework (em estudo)  
-- SQL para validação de dados  
+## 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mikhel-cabral/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
