@@ -1,24 +1,27 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World 👋</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Olá! 👋, Sou o Mikhel, estudante de Análise e Desenvolvimento de Sistemas.
-
+  Olá! 👋 Sou o Mikhel, estudante de Análise e Desenvolvimento de Sistemas e focado em Quality Assurance.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
- Atualmente, trabalho na Dígitro Tecnologia, auxiliando na execução de testes manuais e automatizados para garantir a qualidade dos sistemas. Tenho experiência com Cypress para automação de testes end-to-end, além de testes de API e metodologias ágeis como Scrum e Kanban.
+Atuo na área de Quality Assurance, com experiência em testes manuais e automatizados, garantindo a qualidade durante todo o ciclo de desenvolvimento de software.
 
-Meu foco está na área de QA Tester, buscando aprofundar meus conhecimentos em testes automatizados, boas práticas de qualidade de software e integração contínua. Para isso, venho combinando minha atuação profissional com estudos intensivos, incluindo cursos na DIO e o curso de Análise e Desenvolvimento de Sistemas, no qual estou há um ano.
+Tenho experiência com automação de testes end-to-end utilizando Cypress, testes de API com Postman e JavaScript, além de conhecimento em Selenium e estudos com Robot Framework.
 
-Além da expertise em Quality Assurance, também tenho interesse no desenvolvimento front-end, explorando tecnologias como JavaScript, React e Bootstrap para a criação de interfaces eficientes e intuitivas. Estou sempre em busca de aprimorar minhas habilidades e contribuir para a entrega de produtos robustos e confiáveis.
+Também possuo vivência com consultas em SQL e validação de dados, além de noções de modelagem de banco de dados. Durante minha trajetória, participei da análise de requisitos, documentação e identificação de melhorias para produtos.
+
+Além disso, estudo desenvolvimento fullstack com Node.js e React, o que fortalece minha visão técnica e contribui para uma atuação mais completa em QA.
+
+Estou em constante evolução, buscando aprimorar minhas habilidades em automação de testes, boas práticas de qualidade e integração contínua.
 
 </details>
 
@@ -27,34 +30,41 @@ Além da expertise em Quality Assurance, também tenho interesse no desenvolvime
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhel-cabral/)
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+
+<!-- Linguagens -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sql-original.svg" height="40"/>
+  <img width="12" />
+</div>
+
+###
+
+<!-- Tools -->
+<div style="flex-basis: 48%;">
+  <h3>Tools & Frameworks</h3>
   <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
-###
-
-###
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+    <img width="12" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/cypress-original.svg" height="40"/>
+    <img width="12" />
   </div>
-  
+</div>
+
+###
+
+## 🧪 QA & Testing
+
+- Cypress  
+- Selenium  
+- Postman  
+- Testes de API  
+- Testes E2E  
+- BDD (Cucumber / Gherkin)  
+- Robot Framework (em estudo)  
+- SQL para validação de dados  
