@@ -48,8 +48,19 @@ Estou em constante evolução, buscando aprimorar minhas habilidades em automaç
   <img width="12" />
 
   <img src="https://cdn.simpleicons.org/robotframework/000000" height="40"/>
+
+  ## 💾 Banco de Dados
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </div>
-###
+
+## ⚙️ DevOps & Ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</div>
+
+  
+</div>
 
 ## 🧪 QA & Testing
 
