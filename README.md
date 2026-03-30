@@ -31,31 +31,24 @@ Estou em constante evolução, buscando aprimorar minhas habilidades em automaç
 
 ## 🔥 Skills
 
-<!-- Linguagens -->
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sql-original.svg" height="40"/>
+
+  <img src="https://cdn.simpleicons.org/cypress/69D3A7" height="40"/>
   <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/>
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40"/>
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/robotframework/000000" height="40"/>
 </div>
-
-###
-
-<!-- Tools -->
-<div style="flex-basis: 48%;">
-  <h3>Tools & Frameworks</h3>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-    <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/cypress-original.svg" height="40"/>
-    <img width="12" />
-  </div>
-</div>
-
 ###
 
 ## 🧪 QA & Testing
