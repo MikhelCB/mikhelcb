@@ -11,24 +11,15 @@
 
 ## 🛠️ Tecnologias
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/cypress/69D3A7" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<p>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/selenium/selenium-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/cypressio/cypressio-original.svg" width="40">
 </p>
-
 ---
 <!-- ## 🚀 Projetos em destaque
 
